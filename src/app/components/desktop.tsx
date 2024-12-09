@@ -26,7 +26,7 @@ const Desktop = () => {
       <div className="w-full lg:w-[720px] h-auto lg:h-[603px] mt-6 lg:mt-0">
         <Image
           src="/images/image.png"
-          alt="images"
+          alt="image"
           width={720}
           height={603}
           className="object-cover"
