@@ -25,7 +25,7 @@ const Desktop = () => {
       {/* Right Image */}
       <div className="w-full lg:w-[720px] h-auto lg:h-[603px] mt-6 lg:mt-0">
         <Image
-          src="/images/image.png"
+          src="/images/Image.png"
           alt="image"
           width={720}
           height={603}
